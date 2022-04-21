@@ -45,7 +45,7 @@
       "serverless": "^2.59.0",
       "serverless-domain-manager": "^2.6.5",
       "serverless-dynamodb-local": "^0.2.39",
-      "serverless-offline": "^6.8.0",
+      "serverless-offline": "^8.0.0",
       "serverless-offline-sns": "^0.76.0",
       "serverless-offline-ssm": "^5.1.0",
       "serverless-plugin-bind-deployment-id": "^1.2.0",
