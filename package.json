@@ -10,7 +10,7 @@
       "@octokit/plugin-enterprise-server": "^7.1.1",
       "@octokit/rest": "^17.11.2",
       "async-lock": "^1.2.4",
-      "axios": "^0.23.0",
+      "axios": "^1.6.0",
       "base-64": "^0.1.0",
       "faker": "^4.1.0",
       "generate-password": "^1.4.2",
