@@ -42,7 +42,7 @@
       "prettier": "^1.19.1",
       "s3rver": "^3.6.1",
       "semver-regex": "^4.0.1",
-      "serverless": "^2.59.0",
+      "serverless": "^3.0.0",
       "serverless-domain-manager": "^2.6.5",
       "serverless-dynamodb-local": "^0.2.39",
       "serverless-offline": "^6.8.0",
