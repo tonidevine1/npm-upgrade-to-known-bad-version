@@ -52,7 +52,7 @@
       "serverless-plugin-git-variables": "^3.5.0",
       "serverless-plugin-stage-variables": "^1.9.4",
       "serverless-s3-local": "^0.6.7",
-      "sinon": "^7.3.2",
+      "sinon": "^19.0.0",
       "sinon-chai": "^3.5.0",
       "sinon-test": "^2.4.3",
       "snyk": "^1.420.2",
