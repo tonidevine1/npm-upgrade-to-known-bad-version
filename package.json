@@ -6,7 +6,7 @@
     "license": "ISC",
     "snyk": true,
     "dependencies": {
-      "@octokit/auth-app": "^2.10.0",
+      "@octokit/auth-app": "^7.2.1",
       "@octokit/plugin-enterprise-server": "^7.1.1",
       "@octokit/rest": "^17.11.2",
       "async-lock": "^1.2.4",
